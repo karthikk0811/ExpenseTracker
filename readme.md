@@ -3,9 +3,9 @@
 
 Follow the below steps to run the app on your local server.
 
-1.Clone the mentioned repository.(https://github.com/NitinReddy01/ExpenseTracker) 
+1.Clone the mentioned repository.
 ```bash
-  git clone https://github.com/NitinReddy01/ExpenseTracker
+  git clone https://github.com/karthikk0811/ExpenseTracker.git
 ```
 2.Run command `npm install` to install all the packages in both client ans server.
 
